@@ -7,6 +7,6 @@ setup(
     author='datawheels',
     author_email='gskooner6@gmail.com',
     license='Secret',
-    packages=['simple'],
+    packages=['simple_functions'],
     install_requires=[]
 )
