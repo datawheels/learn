@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='simple',
+    name='simple_functions',
     version='0.0.1',
     description='Package to sum numbers in a list',
     author='datawheels',
