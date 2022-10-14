@@ -7,6 +7,6 @@ setup(
     author='datawheels',
     author_email='gskooner6@gmail.com',
     license='Secret',
-    packages=find_packages(exclude=['test']),
+    packages=['toolbox'],
     install_requires=[]
 )
